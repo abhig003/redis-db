@@ -1,3 +1,3 @@
 package config
 var Host string="0.0.0.0"
-var Port string="6379"
+var Port string="7379"
